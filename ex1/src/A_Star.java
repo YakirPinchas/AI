@@ -13,25 +13,27 @@ public class A_Star extends AbstractSearchAlgo {
 	@Override
 	public boolean runSearchAlgo() {
 		
-		openList.add(currentBoard);
-        while (!this.openList.isEmpty()) {
+		this.openList.add(currentBoard);
+		while (!this.openList.isEmpty()) {
             this.currentBoard = this.openList.remove();
+          //  System.out.println(closedList.size());
             this.closedList.add(currentBoard);
             if (currentBoard.isGoal()) {
-                this.cost = calculatePathCost(this.currentBoard);
+            	this.cost = calculatePathCost(this.currentBoard);
                 return true;
             }
             List<BoardPuzzle> sons = this.currentBoard.getSons();
             for (BoardPuzzle son : sons) {
                 this.openList.add(son);
             }
+            
         }
         return false;
 	}
 	
 	//calculate the f(n).
     private int getCalculateFunc(BoardPuzzle state) {
-        return  getManhettenDistancesSum(state);
+        return  state.getDepth() + getManhettenDistancesSum(state);
     }
     
     private int getManhettenDistancesSum(BoardPuzzle state) {
@@ -40,7 +42,7 @@ public class A_Star extends AbstractSearchAlgo {
         //System.out.println(board.length);
         for (int i = 0; i < board.length; i++) {
             for (int j = 0; j < board.length; j++) {
-            	if((board[i][j] != 0) && (board[i][j] != i * board.length + j)) {
+            	if(board[i][j] != 0) {
             	sumOfDistance += getManhettenDistance(board.length, board[i][j], i, j);
             	}
             }
@@ -68,9 +70,10 @@ public class A_Star extends AbstractSearchAlgo {
     
     //func that calculate the cost of the path until goal.
     private int calculatePathCost(BoardPuzzle state) {
-    	int cost = 0;
+    	
+    	int cost = -1;
     	while (state != null) {
-    		cost += getCalculateFunc(state);
+    		cost++;
     		state = state.getParent();
     	}
     	return cost;
@@ -79,7 +82,7 @@ public class A_Star extends AbstractSearchAlgo {
 
         @Override
         public int compare(BoardPuzzle bp1, BoardPuzzle bp2) {
-            return getCalculateFunc(bp1) - getCalculateFunc(bp2);
+           return getCalculateFunc(bp1) - getCalculateFunc(bp2);
         }
     }
 
