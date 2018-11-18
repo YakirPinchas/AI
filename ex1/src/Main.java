@@ -13,7 +13,12 @@ public class Main {
     static UsefulEnums.SearchAlgorithms serachAlgo;
     static int boardSize;
     static Integer[][] initialState;
-
+    /**
+     * Read the input.txt file with the problem definitions,
+     * runs the suitable search algorithm and writes the results
+     * to output.txt file
+     * @param args command line arguments
+     */
     public static void main(String[] args) {
         getProblemDefinesFromFile("input.txt");
         ISearchAlgo searchAlgorithm = null;
@@ -30,12 +35,18 @@ public class Main {
                 default:
                     System.exit(1);
         }
+        //run the specific algorithm
         searchAlgorithm.runSearchAlgo();
         System.out.println(searchAlgorithm.getSolutionPath());
+        //write the result to file "output_test.txt"
         writeResultsToFile(searchAlgorithm, "output_test.txt");
         return;
     }
-
+    /**
+     * Read the input.txt file with the problem definitions:
+     * algorithm type, board size, board initial state. 
+     * @param fileName is the file with data
+     */
     public static void getProblemDefinesFromFile(String fileName) {
         File file = new File(fileName);
         if (!file.exists()) {
@@ -65,7 +76,11 @@ public class Main {
         }
 
     }
-
+    /**
+     * write result to output file
+     * @param algorithm the search algorithm according to input.txt
+     * @param fileName is file name of result
+     */
     public static void writeResultsToFile(ISearchAlgo algorithm, String fileName) {
         PrintWriter pw = null;
         try {

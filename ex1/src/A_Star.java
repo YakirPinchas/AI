@@ -1,15 +1,24 @@
 import java.util.Comparator;
 import java.util.List;
 import java.util.PriorityQueue;
-
+/**
+ * the A_STAR algorithm
+ */
 public class A_Star extends AbstractSearchAlgo {
 	
 	private PriorityQueue<BoardPuzzle> openList;
-
+    /**
+     * Constructor of A_STAR
+     * @param init board is the initial board that we get from the input file
+     */
     public A_Star(Integer[][] initialBoard) {
         this.currentBoard = new BoardPuzzle(initialBoard, null, null);
         this.openList = new PriorityQueue<>(new ManhettenDistance());
     }
+    /**
+     * run the algorithm of A STAR
+     * @return true if we came to Goal state , else - false.
+     */
 	@Override
 	public boolean runSearchAlgo() {
 		
