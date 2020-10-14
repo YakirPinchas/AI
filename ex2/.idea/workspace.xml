@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="76a80e22-15aa-4a5a-bec0-9b6b41284c9f" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="AIEX2" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/NaiveBase.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="method#NaiveBase#0;class#NaiveBase#0" />
+                <element signature="docComment;method#addToCountMap#0;class#NaiveBase#0" />
+                <element signature="method#addToCountMap#0;class#NaiveBase#0" />
+                <element signature="method#initialTypeAttMap#0;class#NaiveBase#0" />
+                <element signature="docComment;method#addToTypeAttMap#0;class#NaiveBase#0" />
+                <element signature="method#addToTypeAttMap#0;class#NaiveBase#0" />
+                <element signature="docComment;method#predictTest#0;class#NaiveBase#0" />
+                <element signature="method#predictTest#0;class#NaiveBase#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Id3.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+              <folding>
+                <element signature="docComment;class#Id3#0" />
+                <element signature="docComment;method#learnData#0;class#Id3#0" />
+                <element signature="method#learnData#0;class#Id3#0" />
+                <element signature="docComment;method#getTreeString#0;class#Id3#0" />
+                <element signature="method#getTreeString#0;class#Id3#0" />
+                <element signature="docComment;method#buildTree#0;class#Id3#0" />
+                <element signature="method#buildTree#0;class#Id3#0" />
+                <element signature="docComment;method#createNewAttributes#0;class#Id3#0" />
+                <element signature="method#createNewAttributes#0;class#Id3#0" />
+                <element signature="docComment;method#screenData#0;class#Id3#0" />
+                <element signature="method#screenData#0;class#Id3#0" />
+                <element signature="docComment;method#getValues#0;class#Id3#0" />
+                <element signature="method#getValues#0;class#Id3#0" />
+                <element signature="docComment;method#chooseBestAttribute#0;class#Id3#0" />
+                <element signature="method#chooseBestAttribute#0;class#Id3#0" />
+                <element signature="docComment;method#calcGain#0;class#Id3#0" />
+                <element signature="method#calcGain#0;class#Id3#0" />
+                <element signature="docComment;method#calcEntropy#0;class#Id3#0" />
+                <element signature="method#calcEntropy#0;class#Id3#0" />
+                <element signature="docComment;method#xlogx#0;class#Id3#0" />
+                <element signature="method#xlogx#0;class#Id3#0" />
+                <element signature="docComment;method#subSetData#0;class#Id3#0" />
+                <element signature="method#subSetData#0;class#Id3#0" />
+                <element signature="docComment;method#sumAmountOfValueInHashMap#0;class#Id3#0" />
+                <element signature="method#sumAmountOfValueInHashMap#0;class#Id3#0" />
+                <element signature="docComment;method#getAmountOfValueInList#0;class#Id3#0" />
+                <element signature="method#getAmountOfValueInList#0;class#Id3#0" />
+                <element signature="docComment;method#getModeClassification#0;class#Id3#0" />
+                <element signature="method#getModeClassification#0;class#Id3#0" />
+                <element signature="docComment;method#getIndex#0;class#Id3#0" />
+                <element signature="method#getIndex#0;class#Id3#0" />
+                <element signature="docComment;method#predictTest#0;class#Id3#0" />
+                <element signature="method#predictTest#0;class#Id3#0" />
+                <element signature="docComment;method#prediction#0;class#Id3#0" />
+                <element signature="method#prediction#0;class#Id3#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/java_ex2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ActionFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="method#getData#0;class#ActionFile#0" />
+                <element signature="method#moveData#0;class#ActionFile#0" />
+                <element signature="docComment;method#write#0;class#ActionFile#0" />
+                <element signature="method#write#0;class#ActionFile#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>k</find>
+      <find>classificationco</find>
+      <find>dataToAttribute</find>
+      <find>addToDataAttributeMap</find>
+      <find>classi</find>
+      <find>classification</find>
+      <find>System</find>
+      <find>Decisiontreebackup</find>
+      <find>System.out</find>
+      <find>getModeClassification</find>
+      <find>maxV</find>
+      <find>Sys</find>
+      <find>amountTypeDiffAtt</find>
+      <find>addtotype</find>
+      <find>getValues</find>
+      <find>subSetData</find>
+      <find>addToTypeAttMap</find>
+      <find>Syst</find>
+      <find>getValueInEndOfTree</find>
+      <find>possibleValueAttributes</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/UsefulEnums.java" />
+        <option value="$PROJECT_DIR$/src/TrainData.java" />
+        <option value="$PROJECT_DIR$/src/IData.java" />
+        <option value="$PROJECT_DIR$/src/HammingDistanceComperator.java" />
+        <option value="$PROJECT_DIR$/src/IDistanceAlgo.java" />
+        <option value="$PROJECT_DIR$/src/IDataRead.java" />
+        <option value="$PROJECT_DIR$/src/HammingDistance.java" />
+        <option value="$PROJECT_DIR$/src/DataRead.java" />
+        <option value="$PROJECT_DIR$/src/Reader.java" />
+        <option value="$PROJECT_DIR$/src/ProbablityUtils.java" />
+        <option value="$PROJECT_DIR$/src/Writer.java" />
+        <option value="$PROJECT_DIR$/src/MathUtils.java" />
+        <option value="$PROJECT_DIR$/src/ProbabilityUtils.java" />
+        <option value="$PROJECT_DIR$/train.txt" />
+        <option value="$PROJECT_DIR$/src/ID3Utils.java" />
+        <option value="$PROJECT_DIR$/src/ID3.java" />
+        <option value="$PROJECT_DIR$/test.txt" />
+        <option value="$PROJECT_DIR$/src/DecisionTreebackup.java" />
+        <option value="$PROJECT_DIR$/output.txt" />
+        <option value="$PROJECT_DIR$/src/ID3backup.java" />
+        <option value="$PROJECT_DIR$/src/Main.java" />
+        <option value="$PROJECT_DIR$/output_test.txt" />
+        <option value="$PROJECT_DIR$/src/ExampleDistance.java" />
+        <option value="$PROJECT_DIR$/src/ExampleDistanceComperator.java" />
+        <option value="$PROJECT_DIR$/src/IDecisionAlgo.java" />
+        <option value="$PROJECT_DIR$/src/Knn.java" />
+        <option value="$PROJECT_DIR$/src/DecisionTree.java" />
+        <option value="$PROJECT_DIR$/src/NaiveBase.java" />
+        <option value="$PROJECT_DIR$/src/java_ex2.java" />
+        <option value="$PROJECT_DIR$/src/ActionFile.java" />
+        <option value="$PROJECT_DIR$/src/Id3.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1386" />
+    <option name="height" value="788" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="AIEX2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AIEX2" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AIEX2" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AIEX2" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547484883027" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../nisuy" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="java_ex2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="java_ex2" />
+      <module name="AIEX2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.java_ex2" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="76a80e22-15aa-4a5a-bec0-9b6b41284c9f" name="Default Changelist" comment="" />
+      <created>1546173330623</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1546173330623</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49756098" visible="true" weight="0.39107412" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="DB Browser" order="6" weight="0.32980332" />
+      <window_info id="Favorites" order="7" sideWeight="0.502439" side_tool="true" weight="0.27987897" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2913257" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39934534" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="DB Execution Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3289689" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/AbsractDecisionAlgo.java" />
+    <entry file="file://$PROJECT_DIR$/src/UsefulEnums.java" />
+    <entry file="file://$PROJECT_DIR$/src/IDataRead.java" />
+    <entry file="file://$PROJECT_DIR$/src/IDistanceAlgo.java" />
+    <entry file="file://$PROJECT_DIR$/src/HammingDistance.java" />
+    <entry file="file://$PROJECT_DIR$/src/DataRead.java" />
+    <entry file="file://$PROJECT_DIR$/src/Reader.java" />
+    <entry file="file://$PROJECT_DIR$/src/Writer.java" />
+    <entry file="file://$PROJECT_DIR$/src/ID3Utils.java" />
+    <entry file="file://$PROJECT_DIR$/src/ExampleDistance.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="427">
+          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+          <folding>
+            <element signature="e#673#674#0" expanded="true" />
+            <element signature="e#704#705#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ExampleDistanceComperator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="46" selection-start-line="10" selection-start-column="46" selection-end-line="10" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MathUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret lean-forward="true" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TestData.java" />
+    <entry file="file://$PROJECT_DIR$/src/Knn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding>
+            <element signature="method#learnData#0;class#Knn#0" />
+            <element signature="method#addToKnnResultsMap#0;class#Knn#0" />
+            <element signature="method#predictTest#0;class#Knn#0" />
+            <element signature="method#MaxClassification#0;class#Knn#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IDecisionAlgo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output_test.txt" />
+    <entry file="file://$PROJECT_DIR$/src/ProbabilityUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="30" column="52" selection-start-line="30" selection-start-column="52" selection-end-line="30" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DecisionTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="79" selection-start-line="79" selection-end-line="79" />
+          <folding>
+            <element signature="e#2492#2493#0" expanded="true" />
+            <element signature="e#2695#2696#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="22" lean-forward="true" selection-start-line="1" selection-start-column="22" selection-end-line="1" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="22" lean-forward="true" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AIEX2.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NaiveBase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="method#NaiveBase#0;class#NaiveBase#0" />
+            <element signature="docComment;method#addToCountMap#0;class#NaiveBase#0" />
+            <element signature="method#addToCountMap#0;class#NaiveBase#0" />
+            <element signature="method#initialTypeAttMap#0;class#NaiveBase#0" />
+            <element signature="docComment;method#addToTypeAttMap#0;class#NaiveBase#0" />
+            <element signature="method#addToTypeAttMap#0;class#NaiveBase#0" />
+            <element signature="docComment;method#predictTest#0;class#NaiveBase#0" />
+            <element signature="method#predictTest#0;class#NaiveBase#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/java_ex2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ActionFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getData#0;class#ActionFile#0" />
+            <element signature="method#moveData#0;class#ActionFile#0" />
+            <element signature="docComment;method#write#0;class#ActionFile#0" />
+            <element signature="method#write#0;class#ActionFile#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/output_tree.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="21" lean-forward="true" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Id3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="11" column="30" selection-start-line="11" selection-start-column="30" selection-end-line="11" selection-end-column="30" />
+          <folding>
+            <element signature="docComment;class#Id3#0" />
+            <element signature="docComment;method#learnData#0;class#Id3#0" />
+            <element signature="method#learnData#0;class#Id3#0" />
+            <element signature="docComment;method#getTreeString#0;class#Id3#0" />
+            <element signature="method#getTreeString#0;class#Id3#0" />
+            <element signature="docComment;method#buildTree#0;class#Id3#0" />
+            <element signature="method#buildTree#0;class#Id3#0" />
+            <element signature="docComment;method#createNewAttributes#0;class#Id3#0" />
+            <element signature="method#createNewAttributes#0;class#Id3#0" />
+            <element signature="docComment;method#screenData#0;class#Id3#0" />
+            <element signature="method#screenData#0;class#Id3#0" />
+            <element signature="docComment;method#getValues#0;class#Id3#0" />
+            <element signature="method#getValues#0;class#Id3#0" />
+            <element signature="docComment;method#chooseBestAttribute#0;class#Id3#0" />
+            <element signature="method#chooseBestAttribute#0;class#Id3#0" />
+            <element signature="docComment;method#calcGain#0;class#Id3#0" />
+            <element signature="method#calcGain#0;class#Id3#0" />
+            <element signature="docComment;method#calcEntropy#0;class#Id3#0" />
+            <element signature="method#calcEntropy#0;class#Id3#0" />
+            <element signature="docComment;method#xlogx#0;class#Id3#0" />
+            <element signature="method#xlogx#0;class#Id3#0" />
+            <element signature="docComment;method#subSetData#0;class#Id3#0" />
+            <element signature="method#subSetData#0;class#Id3#0" />
+            <element signature="docComment;method#sumAmountOfValueInHashMap#0;class#Id3#0" />
+            <element signature="method#sumAmountOfValueInHashMap#0;class#Id3#0" />
+            <element signature="docComment;method#getAmountOfValueInList#0;class#Id3#0" />
+            <element signature="method#getAmountOfValueInList#0;class#Id3#0" />
+            <element signature="docComment;method#getModeClassification#0;class#Id3#0" />
+            <element signature="method#getModeClassification#0;class#Id3#0" />
+            <element signature="docComment;method#getIndex#0;class#Id3#0" />
+            <element signature="method#getIndex#0;class#Id3#0" />
+            <element signature="docComment;method#predictTest#0;class#Id3#0" />
+            <element signature="method#predictTest#0;class#Id3#0" />
+            <element signature="docComment;method#prediction#0;class#Id3#0" />
+            <element signature="method#prediction#0;class#Id3#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
